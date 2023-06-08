@@ -14,8 +14,6 @@
 
 ## About
 
-🇧🇷
-
 - I'm a Data Science specialist 🎓
 
 - 🔭 I’m currently a MSc student in Transportation Engineering at the University of São Paulo in Brazil
@@ -28,6 +26,8 @@
 
 - ⚡ Enjoy sports particularly **Swimming** 🏊🏾‍♀️ and **Hiking** 🥾 🎒
 
+- 'Ever tried, ever failed, no matter. Try again, fail again, fail better.' (Samuel Beckett)
+- "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
 
 ## Other infos 
 For further details, please proceed to [portfolio](https://anairamlc.github.io/).
