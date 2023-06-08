@@ -14,7 +14,11 @@
 
 ## About
 
-- 🔭 I’m currently a MSc student in Transportation Engineering and MBA student in Data Science at the University of São Paulo in Brazil
+🇧🇷
+
+- I'm a Data Science specialist 🎓
+
+- 🔭 I’m currently a MSc student in Transportation Engineering at the University of São Paulo in Brazil
     
     - line of research: connected and autonomous vehicles.
 
@@ -22,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on ****data science and AI Ethics projects****
 
-- ⚡ Enjoy sports particularly **Swimming and Hiking**
+- ⚡ Enjoy sports particularly **Swimming** 🏊🏾‍♀️ and **Hiking** 🥾 🎒
 
 
 ## Other infos 
