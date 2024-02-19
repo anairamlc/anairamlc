@@ -28,6 +28,7 @@
 
 - 'Ever tried, ever failed, no matter. Try again, fail again, fail better.' (Samuel Beckett)
 - "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
+- "Never let anyone dim your light" (Oprah Winfrey)
 
 ## Other infos 
 For further details, please proceed to [portfolio](https://anairamlc.github.io/).
