@@ -1,9 +1,8 @@
 <div>
 <p align="center"><b>Anáiram Costa</b></p>
 <p align="center" class="no-site"><i>Data Scientist</i></p>
-<!--
+<p align="center">A passionate for hiking, python and homemade food XD. My motto is "change the world one step at a time". </p>
 <p align="center">Brazil</p>
--->
 </div>
 
 <p align="center">
@@ -14,7 +13,7 @@
 
 ## About
 
-- I'm a Data Science specialist 🎓
+- 🎓 I'm a Transportation engineer and Data Science specialist
 
 - 🔭 I’m currently a MSc student in Transportation Engineering at the University of São Paulo in Brazil
     
@@ -27,8 +26,27 @@
 - ⚡ Enjoy sports particularly **Swimming** 🏊🏾‍♀️ and **Hiking** 🥾 🎒
 
 - 'Ever tried, ever failed, no matter. Try again, fail again, fail better.' (Samuel Beckett)
-- "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
-- "Never let anyone dim your light" (Oprah Winfrey)
+
+
+
+
+
+🚦 I supervise the Intelligent Transportation System Laboratory research team.
+
+🚶 I primarily work on traffic engineering, travel behavior, and urban traffic patterns.
+
+💻 I teach and encourage programming (Python, R, Julia, and -- why not -- Excel and Power Query) to my students.
+
+📝 I have published some papers.
+
+🏊 I swim in open water.
+
+🏍️ I love to ride a motorcycle.
+
+
+
+
+
 
 ## Other infos 
 For further details, please proceed to [portfolio](https://anairamlc.github.io/).
