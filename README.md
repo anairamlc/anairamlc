@@ -1,6 +1,7 @@
 <div>
 <p align="center"><b>Anáiram Costa</b></p>
 <p align="center" class="no-site"><i>Data Scientist</i></p>
+<p align="center">Passionate about swimming, python and homemade food</p>  
 <!-- <p align="center">Brazil</p> -->
 </div>
 
@@ -12,35 +13,19 @@
 
 ## About
 
-- 🎓 I'm a Transportation engineer and Data Science specialist
+🎓 I'm a Transportation engineer and Data Science specialist
 
-- 🔭 I’m currently a MSc student in Transportation Engineering at the University of São Paulo in Brazil
-    
-    - line of research: connected and autonomous vehicles.
+🔭 I’m currently pursing a MBA in Artificial Intelligence and Big Data at the University of São Paulo
 
-- 🌱 I’m currently learning **Statistics; Machine learning; Dynamic learning; Advanced data capture and processing techniques**
+🌱 I’m currently learning **Statistics; Machine learning; Dynamic learning; Advanced data capture and processing techniques**
 
-- 👯 I’m looking to collaborate on ****data science and AI Ethics projects****
+📝 I have published some papers Intelligent Transportation System, traffic engineering, travel behavior, and road traffic patterns
 
-- ⚡ Enjoy sports particularly **Swimming** 🏊🏾‍♀️ and **Hiking** 🥾 🎒
+👯 I’m looking to collaborate on ****data science and AI Ethics projects****
 
-- 'Ever tried, ever failed, no matter. Try again, fail again, fail better.' (Samuel Beckett)
+⚡ Enjoy sports particularly **Swimming** 🏊🏾‍♀️ and **Hiking** 🥾 🎒
 
-
-
-
-
-🚦 I supervise the Intelligent Transportation System Laboratory research team.
-
-🚶 I primarily work on traffic engineering, travel behavior, and urban traffic patterns.
-
-💻 I teach and encourage programming (Python, R, Julia, and -- why not -- Excel and Power Query) to my students.
-
-📝 I have published some papers.
-
-🏊 I swim in open water.
-
-🏍️ I love to ride a motorcycle.
+> My motto is “movement transforms”.
 
 
 
