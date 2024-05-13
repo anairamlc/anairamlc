@@ -28,9 +28,12 @@
 > My motto is “movement transforms”.
 
 
+----
+
+I'm an engineer who loves interpreting data to gain insights and information to interpret behavior and trends. With my diverse experience, I bring a unique combination of engineering, analytical skills and business knowledge.
 
 
-
+----
 
 ## Other infos 
 For further details, please proceed to [portfolio](https://anairamlc.github.io/).
