@@ -1,8 +1,7 @@
 <div>
 <p align="center"><b>Anáiram Costa</b></p>
 <p align="center" class="no-site"><i>Data Scientist</i></p>
-<p align="center">A passionate for hiking, python and homemade food XD. My motto is "change the world one step at a time". </p>
-<p align="center">Brazil</p>
+<!-- <p align="center">Brazil</p> -->
 </div>
 
 <p align="center">
