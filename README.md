@@ -13,19 +13,29 @@
 
 ## About
 
-🎓 I'm a Transportation engineer and Data Science specialist
+🎓 I'm a Transportation Engineer and Data Science specialist
 
 🔭 I’m currently pursing a MBA in Artificial Intelligence and Big Data at the University of São Paulo
 
-🌱 I’m currently learning **Statistics; Machine learning; Dynamic learning; Advanced data capture and processing techniques**
-
 📝 I have published some papers Intelligent Transportation System, traffic engineering, travel behavior, and road traffic patterns
+
+**💻 Areas of interest: data science, machine learning, deep learning, statistics, natural language processing, bioinformatics, data analytics, mlops...**
+
+🌱 I’m currently learning **cloud computing, specifically focusing on tools like Azure, AWS, GCP, and Databricks for data science applications.**
 
 👯 I’m looking to collaborate on ****data science and AI Ethics projects****
 
-⚡ Enjoy sports particularly **Swimming** 🏊🏾‍♀️ and **Hiking** 🥾 🎒
+⚡ Enjoy sports particularly **Swimming** 🏊🏾‍♀️
 
-> My motto is “movement transforms”.
+💭 My motto is “movement transforms”.
+
+
+
+
+
+
+
+
 
 
 ----
